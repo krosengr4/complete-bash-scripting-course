@@ -1,0 +1,15 @@
+The terminal exists as a REPL
+- Read
+- Eval
+- Print
+- Loop
+
+Running terminal, which is an application
+Terminal is running instance of bash which is a program
+
+FLAGS
+-i = interactive
+
+HIDDEN FILES
+- To make a file hidden, add  '.' infront of it
+    - Ex: .git
