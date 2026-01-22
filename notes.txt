@@ -13,3 +13,21 @@ FLAGS
 HIDDEN FILES
 - To make a file hidden, add  '.' infront of it
     - Ex: .git
+
+grep:
+    - A program to search a file or an input stream for some sort of pattern.
+    - grep is case sensitive
+    - Adding '^' symbol before the word will show the lines that start with a specific string. 
+        Ex: grep ^test test.txt (will show all lines that start with "test"
+    - Adding '$' symbol after the word will show all lines ending with a specific string.
+        Ex: grep ly$ test.txt (will show all lines that end with "ly"
+
+    - FLAGS FOR GREP
+        - grep -A1 word = (after 1) find word and print one line after it
+        - grep -B1 word = (before 1) find word and print one line before it
+        - grep -C1 word = (context) find word and print one line before and after it
+        - grep -i word = (case insensitive) find word case insensensitively
+        - grep -o word = (only) only find the words that match the pattern
+
+    
+
