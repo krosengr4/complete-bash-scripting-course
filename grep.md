@@ -1,6 +1,7 @@
----- grep ----
+# GREP
 
-grep: a program to search a file or input stream for some sort of pattern
+### grep: 
+    - a program to search a file or input stream for some sort of pattern
     - case sensitive
 
 - Adding '^' symbol before the word will show the lines that start with a specific string. 

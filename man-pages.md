@@ -1,4 +1,4 @@
------ MAN PAGES -----
+# MAN PAGES
 - Man is short for Manual
 
 - Most of the commands used in bash come with a man page
